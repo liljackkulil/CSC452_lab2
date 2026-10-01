@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout   # took off the @v4
 
       - name: Build step
         run: echo "Build OK - HTML validated"
@@ -36,4 +36,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: webpage
-          path: index.htm
+          path: index.html
