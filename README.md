@@ -8,3 +8,6 @@ Status Badge:
 <img width="1844" height="510" alt="Success" src="https://github.com/user-attachments/assets/097c9a3b-3e01-4f3f-b7e7-e7334760252e" />
 
 <img width="1865" height="669" alt="Screenshot 2026-10-01 135206" src="https://github.com/user-attachments/assets/602ce628-2dc8-4120-9f99-5dd67143601f" />
+
+
+I had no issues with the code. It ran perfectly fine. The only thing I fixed was the things I purposefully messed up.
