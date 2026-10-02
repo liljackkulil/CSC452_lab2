@@ -13,7 +13,10 @@ Status Badge:
 I had no issues with the code. It ran perfectly fine. The only thing I fixed was the things I purposefully messed up.
 
 
-The yml
+
+
+
+The .yml file
 
 name: Simple CI/CD Workflow
 
